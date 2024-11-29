@@ -39,7 +39,7 @@ Before starting this project, make sure you have the following:
 - Provide a unique name for your bucket (e.g., `muiz-portfolio`) and select your region.
 
 **Screenshot**:
-![Step 1 - Create S3 Bucket](assets/screenshots/step1.png)
+![Step 1 - Create S3 Bucket](assets/screenshots/step1.PNG)
 
 **Tip**:
 - Make sure the bucket name is globally unique and follows AWS naming conventions.
@@ -53,7 +53,7 @@ Before starting this project, make sure you have the following:
 - Click **"Upload"** to save your files in the bucket.
 
 **Screenshot**:
-![Step 2 - Upload Website Files](assets/screenshots/step2.png)
+![Step 2 - Upload Website Files](assets/screenshots/step2.PNG)
 
 ---
 
@@ -64,7 +64,7 @@ Before starting this project, make sure you have the following:
 - Set the **index document** to `index.html`.
 
 **Screenshot**:
-![Step 3 - Enable Static Website Hosting](assets/screenshots/step3.png)
+![Step 3 - Enable Static Website Hosting](assets/screenshots/step3.PNG)
 
 **Warning**:
 - Do not forget to save your changes after enabling static website hosting.
@@ -87,7 +87,7 @@ Before starting this project, make sure you have the following:
 - Paste it into your browser to see your website live.
 
 **Screenshot**:
-![Step 5 - Live Website](assets/screenshots/step5.png)
+![Step 5 - Live Website](assets/screenshots/step5.PNG)
 
 **Troubleshooting**:
 - If you see a "403 Forbidden" error, double-check your bucket policy and permissions.
